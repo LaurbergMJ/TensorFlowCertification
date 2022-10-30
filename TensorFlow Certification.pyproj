@@ -23,6 +23,18 @@
   <ItemGroup>
     <Compile Include="TensorFlow_Certification.py" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Courserwork\" />
+    <Folder Include="Courserwork\DeepLearning - TensorFlowDeveloper\" />
+    <Folder Include="Courserwork\DeepLearning - TensorFlowDeveloper\Course1\" />
+    <Folder Include="Courserwork\DeepLearning - TensorFlowDeveloper\Course1\Week4\" />
+    <Folder Include="Courserwork\DeepLearning - TensorFlowDeveloper\Course1\Week3\" />
+    <Folder Include="Courserwork\DeepLearning - TensorFlowDeveloper\Course1\Week2\" />
+    <Folder Include="Courserwork\DeepLearning - TensorFlowDeveloper\Course1\Week1\" />
+    <Folder Include="Courserwork\DeepLearning - TensorFlowDeveloper\Course2\" />
+    <Folder Include="Courserwork\DeepLearning - TensorFlowDeveloper\Course3\" />
+    <Folder Include="Courserwork\DeepLearning - TensorFlowDeveloper\Course4\" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
        Visual Studio and specify your pre- and post-build commands in
